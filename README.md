@@ -1,4 +1,4 @@
-## Titanic-Machine-Learning-from-Disaster
+## Titanic: Machine Learning from Disaster
 
 A simple 1-layer network to predict the survival rates of passengers aboard the ill-fated Titanic.
 
