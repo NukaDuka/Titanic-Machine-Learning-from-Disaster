@@ -14,3 +14,4 @@ This implementation uses an Adam Optimizer with a learning rate of 0.01, along w
 
 The training accuracy of this network after 50000 epochs was **76.43%**, while the test set accuracy was **69.377%** according to Kaggle's evaluation.
 
+# TODO: Update repo with better, newer model
